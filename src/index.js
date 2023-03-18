@@ -1,5 +1,5 @@
 import './css/styles.css';
-// import countryCard from "./templates/country-card.hbs";
+import countryCard from "./templates/country-card.hbs";
 
 const DEBOUNCE_DELAY = 300;
 
